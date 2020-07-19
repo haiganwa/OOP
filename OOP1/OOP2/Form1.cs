@@ -34,6 +34,7 @@ namespace OOP2
             public void Eat(int foodsize)
             {
                 HungerIndex = HungerIndex + foodsize / 2;
+               
             }
 
             //成员变量或成员属性
